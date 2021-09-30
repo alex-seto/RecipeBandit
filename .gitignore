@@ -1,0 +1,5 @@
+
+*.csv
+.ipynb_checkpoints/README-checkpoint.md
+.ipynb_checkpoints/RecipeEDA-checkpoint.ipynb
+data/ingr_map.pkl
