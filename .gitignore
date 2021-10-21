@@ -3,3 +3,8 @@
 .ipynb_checkpoints/README-checkpoint.md
 .ipynb_checkpoints/RecipeEDA-checkpoint.ipynb
 data/ingr_map.pkl
+*.icloud
+BASELINE_LINUCB_BS_1/*
+BASELINE_LINUCB_BS_1
+*.DS_Store
+*checkpoint*
